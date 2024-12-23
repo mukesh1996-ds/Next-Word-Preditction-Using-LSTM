@@ -59,7 +59,7 @@ Input Sequences (Tokenized & Padded) --> Embedding Layer --> First LSTM Layer --
 ```
 
 ### Flowchart Representation:
-![LSTM Architecture](LSTM_Flowchart.png)
+![LSTM Architecture]([LSTM_Flowchart.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwuRVVFzUh7lBaeY5Ws15C9pp5fKAYL_KkBg&s))
 
 ---
 
