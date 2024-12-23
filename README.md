@@ -77,7 +77,7 @@ The model is deployed using a Streamlit application. Users can input a sequence 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/next-word-prediction-lstm.git
+   git clone https://github.com/mukesh1996-ds/next-word-prediction-lstm.git
    cd next-word-prediction-lstm
    ```
 
